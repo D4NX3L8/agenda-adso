@@ -13,6 +13,20 @@
       "correo": "juanperez8@gmail.com",
       "etiqueta": "Instructor",
       "id": "0auyzxrQJHw"
+    },
+    {
+      "nombre": "Camila Perez",
+      "telefono": "3000000",
+      "correo": "camila@gmail.com",
+      "etiqueta": "Aprendiz",
+      "id": "NbqVj5fqsho"
+    },
+    {
+      "nombre": "Andres Valencia",
+      "telefono": "3012222",
+      "correo": "andres@gmail.com",
+      "etiqueta": "Aprendiz",
+      "id": "raDnQIflxZs"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
